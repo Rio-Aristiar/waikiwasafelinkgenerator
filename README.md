@@ -1,0 +1,2 @@
+# waikiwasafelinkgenerator
+safelink generator
